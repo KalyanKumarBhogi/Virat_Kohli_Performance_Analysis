@@ -178,8 +178,8 @@ figure.show() <p>
 
 **There is no strong linear relationship here. It means Virat Kohli likes playing fours more than sixes.**
 
-# Conclusion:
-In summary, Virat Kohli's ODI batting analysis from August 18, 2008, to January 22, 2017, reveals a consistently high-performing player with an average of [average_runs], showcasing his proficiency in the 3rd batting position where he contributed over 72% of his total runs. His preference for scoring centuries in the second innings highlights his prowess in chasing scores. Common dismissals involve getting caught, and he excels against teams like Sri Lanka and Australia. The analysis of strike rates indicates a more aggressive approach in the first innings, while the relationship between runs, fours, and sixes illustrates his reliance on fours for accumulating runs. This comprehensive data-driven approach enhances our understanding of Virat Kohli's cricketing strengths and playing style.
+# Conclusion: <p>
+Virat Kohli's ODI batting analysis from August 18, 2008, to January 22, 2017, reveals a consistently high-performing player with an average of [average_runs], showcasing his proficiency in the 3rd batting position where he contributed over 72% of his total runs. His preference for scoring centuries in the second innings highlights his prowess in chasing scores. Common dismissals involve getting caught, and he excels against teams like Sri Lanka and Australia. The analysis of strike rates indicates a more aggressive approach in the first innings, while the relationship between runs, fours, and sixes illustrates his reliance on fours for accumulating runs. This comprehensive data-driven approach enhances our understanding of Virat Kohli's cricketing strengths and playing style.
 
 
 
