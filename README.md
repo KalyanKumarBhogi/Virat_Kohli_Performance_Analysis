@@ -176,8 +176,7 @@ figure.show() <p>
 ![image](https://github.com/KalyanKumarBhogi/Virat_Kohli_Performance_Analysis/assets/144279085/afbbb1ed-1680-4e3a-81e0-3a1b26969342)
 
 
-# Conclusion:
-**There is no strong linear relationship here. It means Virat Kohli likes playing fours more than sixes.
+**There is no strong linear relationship here. It means Virat Kohli likes playing fours more than sixes.**
 
 
 
